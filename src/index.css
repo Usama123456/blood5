@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+#hide:hover{
+  display: block;
+  
+}
+
+
+#hide{
+     display: none; 
+}
+
+#main{
+  display: inline-block;
+}
+
+/*#:hover{
+  display:block;
+}*/
